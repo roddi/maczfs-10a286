@@ -1,0 +1,1 @@
+This package contains the source files for the CDDL-licensed portions of ZFS corresponding to the version provided with Snow Leopard 10A286.
